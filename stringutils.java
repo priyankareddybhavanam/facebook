@@ -1,1 +1,2 @@
-this is java class contains string functions
+this is java class contains string function
+i am adding now
